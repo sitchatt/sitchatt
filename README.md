@@ -84,10 +84,7 @@
   
 </details> 
    </details>
-   
-   
-   
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  
 
 
 ### Show some ❤️ by starring some of the repositories!
