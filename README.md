@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sitabja Chatterjee</h1>
+
 *I'm an experienced DevOps engineer with expertise in GitHub, CI/CD pipelines, Docker, Kubernetes and cloud infrastructure. I have a proven track record of streamlining software development workflows and optimizing processes to improve code quality and team collaboration. With strong communication and problem-solving skills, I thrive in fast-paced environments and am always looking for ways to drive innovation. Whether building new applications or enhancing existing ones, I'm confident in my ability to create exceptional software solutions*
 
 
 - 🔭 I’m currently working on **DevOps ,Kubernetes and Docker**
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
+
+<h3 align="center">\</h3>
+
+- 📫 My email id- **sitabjachatterjee158@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
